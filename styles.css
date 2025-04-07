@@ -1,0 +1,439 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    background-image: url(/images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    background-size: cover;
+    background-position: center;
+}
+.imgc{
+    display: flex;
+    padding: 30px;
+}
+.history{
+    text-align: center;
+    width: 30vw;
+}
+.allow{
+    width: 35vw;
+    text-align: center;
+}
+.stores{
+    width: 40vw;
+    text-align: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;    
+}
+ 
+
+.tv{
+    height:35vh;
+}
+.devices{
+    height: 20vh;
+}
+.items{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 73vw;
+    padding: 20px;
+    gap: 90px;
+}
+.Good{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    padding: 150px;
+}
+
+
+.SC{
+    height: 10vh;
+    padding: 20px;
+}
+.FPICP{
+    display: flex;
+    align-items: center;
+    gap: 90px;  
+}
+
+.but1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 12vw;
+    border-radius: 15px;
+    background-color: green;
+
+}
+.but2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 12vw;
+    border-radius: 15px;
+    background-color: blue;
+
+
+}
+.BB{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+
+}
+.but11{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 12vw;
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+ 
+
+}
+
+.but22{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 12vw;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+
+}
+.but1122{
+    display: flex;
+    gap: 15px;
+    padding: 20px;
+}
+.ktrack{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    padding: 40px;
+}
+.computer{
+    display: flex;
+}
+.altogether{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    flex-direction: column;
+    gap: 30px;
+    width: 22vw;
+}
+.comq{
+    display: flex;
+    gap: 40px;
+}
+.acc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    width: 40vw;
+}
+.access{
+ display: flex;
+ flex-direction: column;
+ width: 30vw;
+ padding: 10px;
+}
+.accp{
+    width: 40vw;
+    text-align: center;
+    padding: 30px;
+}
+.devices{
+    height: 40vh;
+}
+.black{
+    gap: 90px;
+    
+}
+.text{
+    gap: 20px;
+
+}
+.sneak{
+    gap: 20px;
+
+}
+.ib{
+    padding: 20px;
+}
+.pts{
+    padding: 20px;
+}
+.sp{
+    padding: 20px;
+}
+.cib{
+    padding: 20px;
+}
+.cpts{
+    padding: 20px;
+}
+.csp{
+    padding: 20px;
+}
+.clipboard{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.available{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 43vw;
+}
+.fc{
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+}
+.pp{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.both{
+    display: flex;
+    gap: 20px;
+}
+.fourth{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px;
+}
+.last-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+    width: 100vw;
+}
+
+.wtf{
+    display: flex;
+    height: 20px;
+    gap: 70px;
+    padding-left: 150px;
+}
+.close{
+    gap: 50px;
+}
+.last{
+    /* background-image: url("/clipboard-landing-page-master/images/logo.svg"); */
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    background-size: cover;
+    background-position: center;
+
+
+}@media screen and (max-width:950px){
+.first{
+        background-image: url(/images/bg-header-desktop.png);
+        background-repeat:no-repeat;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 30px;
+        background-size: cover;
+        background-position: center;
+}
+.history{
+    display: flex;
+    width: 60vw;
+}
+.allow{
+    width: 70vw;
+}
+.but11{
+    width:40vw;
+}
+.but22{
+    width: 40vw;
+}
+.but1122{
+    display: flex;
+    flex-direction: column;
+}
+.kto{
+    width: 40vw;
+    padding: 10px;
+}
+.stores{
+    width: 68vw;
+}
+.comq{display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.qs{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qsp{
+    width: 70vw;
+    text-align: center;
+}
+.ics{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60vw;   
+}
+.icsi{text-align: center;
+
+}
+.ch{
+    width: 60vw;
+    text-align: center;
+}
+.access{
+    width: 50vw;
+}
+.accp{
+    width: 85vw;
+}
+
+.devices{
+    height: 30vh
+}
+.super{
+    width: 70vw;
+    text-align: center;
+}
+.we{
+    width: 70vw;
+    text-align: center;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+}
+.Good{
+    display: flex;
+    flex-direction: column;
+}
+.cf{
+    width: 80vw;
+    text-align: center;
+}
+.available{
+    width: 70vw;
+}
+.BB{
+    display: flex;
+    flex-direction: column;
+
+}
+.but1{
+    width: 40vw;
+    color: white;
+
+}
+.but2{
+    width: 40vw;
+    color: white;}
+
+.last-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    width: 100vw;
+}
+.FPICP{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.both{
+    display: flex;
+    flex-direction:column;
+    
+}
+.close{
+    display: flex;
+    gap: 30px;
+}
+.fc{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
