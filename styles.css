@@ -91,9 +91,15 @@
     justify-content: center;
     height: 5vh;
     width: 12vw;
+    border: none;
+    cursor: pointer;
     border-radius: 15px;
     background-color: green;
 
+}
+.but1:hover{
+    background-color: aquamarine;
+    color: black;
 }
 .but2{
     display: flex;
@@ -101,10 +107,16 @@
     justify-content: center;
     height: 5vh;
     width: 12vw;
+    cursor: pointer;
+    border: none;
     border-radius: 15px;
     background-color: blue;
 
 
+}
+.but2:hover{
+    background-color: aquamarine;
+    color: black;
 }
 .BB{
     display: flex;
@@ -120,11 +132,17 @@
     justify-content: center;
     height: 5vh;
     width: 12vw;
+    border: none;
     border-radius: 15px;
     background-color: green;
     color: white;
+    cursor: pointer;
  
 
+}
+.but11:hover{
+    background-color: aquamarine;
+    color: black;
 }
 
 .but22{
@@ -133,10 +151,17 @@
     justify-content: center;
     height: 5vh;
     width: 12vw;
+    border: none;
+    cursor: pointer;
     border-radius: 15px;
     background-color: blue;
     color: white;
 
+}
+.but22:hover{
+    background-color: aqua;
+    color: black;
+    
 }
 .but1122{
     display: flex;
